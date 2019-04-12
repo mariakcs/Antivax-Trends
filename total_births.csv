@@ -1,0 +1,1459 @@
+LocationType,Location,TimeFrame,DataFormat,Data
+Nation,United States,1990,Number,4158212
+Nation,United States,1991,Number,4110907
+Nation,United States,1992,Number,4065014
+Nation,United States,1993,Number,4000240
+Nation,United States,1994,Number,3952767
+Nation,United States,1995,Number,3899589
+Nation,United States,1996,Number,3891494
+Nation,United States,1997,Number,3880894
+Nation,United States,1998,Number,3941553
+Nation,United States,1999,Number,3959417
+Nation,United States,2000,Number,4058814
+Nation,United States,2001,Number,4025933
+Nation,United States,2002,Number,4021726
+Nation,United States,2003,Number,4089950
+Nation,United States,2004,Number,4112052
+Nation,United States,2005,Number,4138349
+Nation,United States,2006,Number,4265555
+Nation,United States,2007,Number,4316233
+Nation,United States,2013,Number,3932181
+Nation,United States,2009,Number,4130665
+Nation,United States,2010,Number,3999386
+Nation,United States,2015,Number,3978497
+Nation,United States,2011,Number,3953590
+Nation,United States,2012,Number,3952841
+Nation,United States,2014,Number,3988076
+Nation,United States,2016,Number,3945875
+Nation,United States,2008,Number,4247694
+State,Alabama,2016,Number,59151
+State,Alabama,2014,Number,59422
+State,Alabama,2012,Number,58448
+State,Alabama,2011,Number,59354
+State,Alabama,2015,Number,59657
+State,Alabama,2010,Number,60050
+State,Alabama,2009,Number,62475
+State,Alabama,2013,Number,58167
+State,Alabama,2005,Number,60453
+State,Alabama,2006,Number,63232
+State,Alabama,2007,Number,64804
+State,Alabama,2008,Number,64546
+State,Alabama,2003,Number,59552
+State,Alabama,2004,Number,59510
+State,Alabama,2001,Number,60454
+State,Alabama,2002,Number,58967
+State,Alabama,1997,Number,60914
+State,Alabama,1998,Number,62074
+State,Alabama,1999,Number,62122
+State,Alabama,2000,Number,63299
+State,Alabama,1995,Number,60329
+State,Alabama,1996,Number,60488
+State,Alabama,1993,Number,61706
+State,Alabama,1994,Number,60939
+State,Alabama,1990,Number,63487
+State,Alabama,1991,Number,62810
+State,Alabama,1992,Number,62260
+State,Alaska,1992,Number,11726
+State,Alaska,1991,Number,11686
+State,Alaska,1990,Number,11902
+State,Alaska,1994,Number,10678
+State,Alaska,1993,Number,11073
+State,Alaska,1996,Number,10037
+State,Alaska,1995,Number,10244
+State,Alaska,1997,Number,9947
+State,Alaska,2000,Number,9974
+State,Alaska,1999,Number,9950
+State,Alaska,1998,Number,9926
+State,Alaska,2002,Number,9938
+State,Alaska,2001,Number,10003
+State,Alaska,2004,Number,10338
+State,Alaska,2003,Number,10086
+State,Alaska,2005,Number,10459
+State,Alaska,2008,Number,11442
+State,Alaska,2007,Number,11052
+State,Alaska,2006,Number,10996
+State,Alaska,2013,Number,11446
+State,Alaska,2009,Number,11324
+State,Alaska,2010,Number,11471
+State,Alaska,2015,Number,11282
+State,Alaska,2011,Number,11456
+State,Alaska,2012,Number,11187
+State,Alaska,2014,Number,11392
+State,Alaska,2016,Number,11209
+State,Arizona,2016,Number,84520
+State,Arizona,2014,Number,86887
+State,Arizona,2012,Number,86441
+State,Arizona,2011,Number,85543
+State,Arizona,2015,Number,85351
+State,Arizona,2010,Number,87477
+State,Arizona,2009,Number,92798
+State,Arizona,2013,Number,85600
+State,Arizona,2006,Number,102429
+State,Arizona,2007,Number,102981
+State,Arizona,2008,Number,99442
+State,Arizona,2005,Number,96199
+State,Arizona,2003,Number,90967
+State,Arizona,2004,Number,93663
+State,Arizona,2001,Number,85597
+State,Arizona,2002,Number,87837
+State,Arizona,1998,Number,78243
+State,Arizona,1999,Number,81145
+State,Arizona,2000,Number,85273
+State,Arizona,1997,Number,75699
+State,Arizona,1995,Number,72463
+State,Arizona,1996,Number,75322
+State,Arizona,1993,Number,69056
+State,Arizona,1994,Number,70846
+State,Arizona,1990,Number,68995
+State,Arizona,1991,Number,68109
+State,Arizona,1992,Number,68829
+State,Arkansas,1992,Number,34820
+State,Arkansas,1991,Number,35479
+State,Arkansas,1990,Number,36457
+State,Arkansas,1994,Number,34718
+State,Arkansas,1993,Number,34289
+State,Arkansas,1996,Number,36371
+State,Arkansas,1995,Number,35175
+State,Arkansas,1997,Number,36478
+State,Arkansas,2000,Number,37783
+State,Arkansas,1999,Number,36729
+State,Arkansas,1998,Number,36865
+State,Arkansas,2002,Number,37437
+State,Arkansas,2001,Number,37010
+State,Arkansas,2004,Number,38573
+State,Arkansas,2003,Number,37784
+State,Arkansas,2005,Number,39208
+State,Arkansas,2008,Number,40669
+State,Arkansas,2007,Number,41378
+State,Arkansas,2006,Number,40961
+State,Arkansas,2013,Number,37832
+State,Arkansas,2009,Number,39808
+State,Arkansas,2010,Number,38540
+State,Arkansas,2015,Number,38886
+State,Arkansas,2011,Number,38715
+State,Arkansas,2012,Number,38347
+State,Arkansas,2014,Number,38511
+State,Arkansas,2016,Number,38274
+State,California,2016,Number,488827
+State,California,2014,Number,502879
+State,California,2012,Number,503755
+State,California,2011,Number,502120
+State,California,2015,Number,491748
+State,California,2010,Number,510198
+State,California,2009,Number,527020
+State,California,2013,Number,494705
+State,California,2006,Number,562440
+State,California,2007,Number,566414
+State,California,2008,Number,551779
+State,California,2005,Number,548882
+State,California,2003,Number,540997
+State,California,2004,Number,544843
+State,California,2001,Number,527759
+State,California,2002,Number,529357
+State,California,1998,Number,521661
+State,California,1999,Number,518508
+State,California,2000,Number,531959
+State,California,1997,Number,524840
+State,California,1995,Number,552045
+State,California,1996,Number,539433
+State,California,1993,Number,585324
+State,California,1994,Number,567930
+State,California,1990,Number,612628
+State,California,1991,Number,610077
+State,California,1992,Number,601730
+State,Colorado,1992,Number,54535
+State,Colorado,1991,Number,53813
+State,Colorado,1990,Number,53525
+State,Colorado,1994,Number,54071
+State,Colorado,1993,Number,54022
+State,Colorado,1996,Number,55807
+State,Colorado,1995,Number,54332
+State,Colorado,1997,Number,56533
+State,Colorado,2000,Number,65438
+State,Colorado,1999,Number,62167
+State,Colorado,1998,Number,59577
+State,Colorado,2002,Number,68418
+State,Colorado,2001,Number,67007
+State,Colorado,2004,Number,68503
+State,Colorado,2003,Number,69339
+State,Colorado,2005,Number,68944
+State,Colorado,2008,Number,70031
+State,Colorado,2007,Number,70809
+State,Colorado,2006,Number,70751
+State,Colorado,2013,Number,65007
+State,Colorado,2009,Number,68628
+State,Colorado,2010,Number,66355
+State,Colorado,2015,Number,66581
+State,Colorado,2011,Number,65055
+State,Colorado,2012,Number,65187
+State,Colorado,2014,Number,65830
+State,Colorado,2016,Number,66613
+State,Connecticut,2016,Number,36015
+State,Connecticut,2014,Number,36285
+State,Connecticut,2012,Number,36539
+State,Connecticut,2011,Number,37281
+State,Connecticut,2015,Number,35746
+State,Connecticut,2010,Number,37708
+State,Connecticut,2009,Number,38896
+State,Connecticut,2013,Number,36085
+State,Connecticut,2006,Number,41820
+State,Connecticut,2007,Number,41660
+State,Connecticut,2008,Number,40399
+State,Connecticut,2005,Number,41718
+State,Connecticut,2003,Number,42873
+State,Connecticut,2004,Number,42095
+State,Connecticut,2001,Number,42648
+State,Connecticut,2002,Number,42001
+State,Connecticut,1998,Number,43820
+State,Connecticut,1999,Number,43310
+State,Connecticut,2000,Number,43026
+State,Connecticut,1997,Number,43109
+State,Connecticut,1995,Number,44334
+State,Connecticut,1996,Number,44469
+State,Connecticut,1993,Number,46700
+State,Connecticut,1994,Number,45655
+State,Connecticut,1990,Number,50123
+State,Connecticut,1991,Number,48566
+State,Connecticut,1992,Number,47573
+State,Delaware,1992,Number,10656
+State,Delaware,1991,Number,11190
+State,Delaware,1990,Number,11113
+State,Delaware,1994,Number,10411
+State,Delaware,1993,Number,10568
+State,Delaware,1996,Number,10155
+State,Delaware,1995,Number,10266
+State,Delaware,1997,Number,10253
+State,Delaware,2000,Number,11051
+State,Delaware,1999,Number,10676
+State,Delaware,1998,Number,10578
+State,Delaware,2002,Number,11090
+State,Delaware,2001,Number,10749
+State,Delaware,2004,Number,11369
+State,Delaware,2003,Number,11329
+State,Delaware,2005,Number,11643
+State,Delaware,2008,Number,12090
+State,Delaware,2007,Number,12170
+State,Delaware,2006,Number,11989
+State,Delaware,2013,Number,10831
+State,Delaware,2009,Number,11559
+State,Delaware,2010,Number,11364
+State,Delaware,2015,Number,11166
+State,Delaware,2011,Number,11257
+State,Delaware,2012,Number,11023
+State,Delaware,2014,Number,10972
+State,Delaware,2016,Number,10992
+City,District of Columbia,2016,Number,9858
+City,District of Columbia,2014,Number,9509
+City,District of Columbia,2012,Number,9399
+City,District of Columbia,2011,Number,9295
+City,District of Columbia,2015,Number,9578
+City,District of Columbia,2010,Number,9165
+City,District of Columbia,2009,Number,9040
+City,District of Columbia,2013,Number,9288
+City,District of Columbia,2006,Number,8523
+City,District of Columbia,2007,Number,8864
+City,District of Columbia,2008,Number,9130
+City,District of Columbia,2005,Number,7971
+City,District of Columbia,2003,Number,7619
+City,District of Columbia,2004,Number,7933
+City,District of Columbia,2001,Number,7625
+City,District of Columbia,2002,Number,7498
+City,District of Columbia,1998,Number,7686
+City,District of Columbia,1999,Number,7522
+City,District of Columbia,2000,Number,7666
+City,District of Columbia,1997,Number,7927
+City,District of Columbia,1995,Number,9014
+City,District of Columbia,1996,Number,8390
+City,District of Columbia,1993,Number,10629
+City,District of Columbia,1994,Number,9930
+City,District of Columbia,1990,Number,11850
+City,District of Columbia,1991,Number,11776
+City,District of Columbia,1992,Number,10960
+State,Florida,1992,Number,191713
+State,Florida,1991,Number,194001
+State,Florida,1990,Number,199339
+State,Florida,1994,Number,190654
+State,Florida,1993,Number,192537
+State,Florida,1996,Number,189392
+State,Florida,1995,Number,188723
+State,Florida,1997,Number,192383
+State,Florida,2000,Number,204125
+State,Florida,1999,Number,197023
+State,Florida,1998,Number,195637
+State,Florida,2002,Number,205579
+State,Florida,2001,Number,205793
+State,Florida,2004,Number,218053
+State,Florida,2003,Number,212250
+State,Florida,2005,Number,226240
+State,Florida,2008,Number,231445
+State,Florida,2007,Number,239165
+State,Florida,2006,Number,236802
+State,Florida,2013,Number,215407
+State,Florida,2009,Number,221394
+State,Florida,2010,Number,214590
+State,Florida,2015,Number,224269
+State,Florida,2011,Number,213414
+State,Florida,2012,Number,213148
+State,Florida,2014,Number,219991
+State,Florida,2016,Number,225022
+State,Georgia,2016,Number,130042
+State,Georgia,2014,Number,130946
+State,Georgia,2012,Number,130280
+State,Georgia,2011,Number,132409
+State,Georgia,2015,Number,131404
+State,Georgia,2010,Number,133947
+State,Georgia,2009,Number,141377
+State,Georgia,2013,Number,128748
+State,Georgia,2006,Number,148633
+State,Georgia,2007,Number,151137
+State,Georgia,2008,Number,146603
+State,Georgia,2005,Number,142200
+State,Georgia,2003,Number,135979
+State,Georgia,2004,Number,138849
+State,Georgia,2001,Number,133526
+State,Georgia,2002,Number,133300
+State,Georgia,1998,Number,122368
+State,Georgia,1999,Number,126717
+State,Georgia,2000,Number,132644
+State,Georgia,1997,Number,118221
+State,Georgia,1995,Number,112282
+State,Georgia,1996,Number,114043
+State,Georgia,1993,Number,110622
+State,Georgia,1994,Number,111011
+State,Georgia,1990,Number,112666
+State,Georgia,1991,Number,110288
+State,Georgia,1992,Number,111116
+State,Hawaii,1992,Number,19864
+State,Hawaii,1991,Number,19922
+State,Hawaii,1990,Number,20489
+State,Hawaii,1994,Number,19517
+State,Hawaii,1993,Number,19593
+State,Hawaii,1996,Number,18401
+State,Hawaii,1995,Number,18595
+State,Hawaii,1997,Number,17393
+State,Hawaii,2000,Number,17551
+State,Hawaii,1999,Number,17038
+State,Hawaii,1998,Number,17583
+State,Hawaii,2002,Number,17477
+State,Hawaii,2001,Number,17072
+State,Hawaii,2004,Number,18281
+State,Hawaii,2003,Number,18100
+State,Hawaii,2005,Number,17924
+State,Hawaii,2008,Number,19484
+State,Hawaii,2007,Number,19134
+State,Hawaii,2006,Number,18982
+State,Hawaii,2013,Number,18987
+State,Hawaii,2009,Number,18887
+State,Hawaii,2010,Number,18988
+State,Hawaii,2015,Number,18420
+State,Hawaii,2011,Number,18956
+State,Hawaii,2012,Number,18980
+State,Hawaii,2014,Number,18550
+State,Hawaii,2016,Number,18059
+State,Idaho,2016,Number,22482
+State,Idaho,2014,Number,22876
+State,Idaho,2012,Number,22963
+State,Idaho,2011,Number,22305
+State,Idaho,2015,Number,22827
+State,Idaho,2010,Number,23198
+State,Idaho,2009,Number,23737
+State,Idaho,2013,Number,22383
+State,Idaho,2006,Number,24184
+State,Idaho,2007,Number,25019
+State,Idaho,2008,Number,25149
+State,Idaho,2005,Number,23062
+State,Idaho,2003,Number,21800
+State,Idaho,2004,Number,22532
+State,Idaho,2001,Number,20688
+State,Idaho,2002,Number,20970
+State,Idaho,1998,Number,19391
+State,Idaho,1999,Number,19872
+State,Idaho,2000,Number,20366
+State,Idaho,1997,Number,18582
+State,Idaho,1995,Number,18035
+State,Idaho,1996,Number,18625
+State,Idaho,1993,Number,17440
+State,Idaho,1994,Number,17526
+State,Idaho,1990,Number,16433
+State,Idaho,1991,Number,16821
+State,Idaho,1992,Number,17362
+State,Illinois,1992,Number,191396
+State,Illinois,1991,Number,194231
+State,Illinois,1990,Number,195790
+State,Illinois,1994,Number,189257
+State,Illinois,1993,Number,190788
+State,Illinois,1996,Number,183180
+State,Illinois,1995,Number,185812
+State,Illinois,1997,Number,180803
+State,Illinois,2000,Number,185036
+State,Illinois,1999,Number,182068
+State,Illinois,1998,Number,182588
+State,Illinois,2002,Number,180622
+State,Illinois,2001,Number,184064
+State,Illinois,2004,Number,180778
+State,Illinois,2003,Number,182495
+State,Illinois,2005,Number,179020
+State,Illinois,2008,Number,176795
+State,Illinois,2007,Number,180836
+State,Illinois,2006,Number,180572
+State,Illinois,2013,Number,156931
+State,Illinois,2009,Number,171163
+State,Illinois,2010,Number,165200
+State,Illinois,2015,Number,158116
+State,Illinois,2011,Number,161312
+State,Illinois,2012,Number,159160
+State,Illinois,2014,Number,158556
+State,Illinois,2016,Number,154445
+State,Indiana,2016,Number,83091
+State,Indiana,2014,Number,84080
+State,Indiana,2012,Number,83227
+State,Indiana,2011,Number,83701
+State,Indiana,2015,Number,84040
+State,Indiana,2010,Number,83940
+State,Indiana,2009,Number,86673
+State,Indiana,2013,Number,83102
+State,Indiana,2006,Number,88631
+State,Indiana,2007,Number,89864
+State,Indiana,2008,Number,88742
+State,Indiana,2005,Number,87193
+State,Indiana,2003,Number,86434
+State,Indiana,2004,Number,87142
+State,Indiana,2001,Number,86459
+State,Indiana,2002,Number,85081
+State,Indiana,1998,Number,85122
+State,Indiana,1999,Number,86031
+State,Indiana,2000,Number,87699
+State,Indiana,1997,Number,83436
+State,Indiana,1995,Number,82835
+State,Indiana,1996,Number,83513
+State,Indiana,1993,Number,83949
+State,Indiana,1994,Number,82595
+State,Indiana,1990,Number,86214
+State,Indiana,1991,Number,85707
+State,Indiana,1992,Number,84140
+State,Iowa,1992,Number,38469
+State,Iowa,1991,Number,38989
+State,Iowa,1990,Number,39409
+State,Iowa,1994,Number,37079
+State,Iowa,1993,Number,37826
+State,Iowa,1996,Number,37139
+State,Iowa,1995,Number,36810
+State,Iowa,1997,Number,36659
+State,Iowa,2000,Number,38266
+State,Iowa,1999,Number,37558
+State,Iowa,1998,Number,37282
+State,Iowa,2002,Number,37559
+State,Iowa,2001,Number,37619
+State,Iowa,2004,Number,38438
+State,Iowa,2003,Number,38174
+State,Iowa,2005,Number,39311
+State,Iowa,2008,Number,40224
+State,Iowa,2007,Number,40886
+State,Iowa,2006,Number,40607
+State,Iowa,2013,Number,39094
+State,Iowa,2009,Number,39701
+State,Iowa,2010,Number,38719
+State,Iowa,2015,Number,39482
+State,Iowa,2011,Number,38214
+State,Iowa,2012,Number,38702
+State,Iowa,2014,Number,39687
+State,Iowa,2016,Number,39403
+State,Kansas,2016,Number,38053
+State,Kansas,2014,Number,39223
+State,Kansas,2012,Number,40341
+State,Kansas,2011,Number,39642
+State,Kansas,2015,Number,39154
+State,Kansas,2010,Number,40649
+State,Kansas,2009,Number,41396
+State,Kansas,2013,Number,38839
+State,Kansas,2006,Number,40968
+State,Kansas,2007,Number,42004
+State,Kansas,2008,Number,41833
+State,Kansas,2005,Number,39888
+State,Kansas,2003,Number,39476
+State,Kansas,2004,Number,39669
+State,Kansas,2001,Number,38869
+State,Kansas,2002,Number,39412
+State,Kansas,1998,Number,38422
+State,Kansas,1999,Number,38782
+State,Kansas,2000,Number,39666
+State,Kansas,1997,Number,37289
+State,Kansas,1995,Number,37201
+State,Kansas,1996,Number,36651
+State,Kansas,1993,Number,37406
+State,Kansas,1994,Number,37379
+State,Kansas,1990,Number,39020
+State,Kansas,1991,Number,37839
+State,Kansas,1992,Number,38027
+State,Kentucky,1992,Number,53840
+State,Kentucky,1991,Number,54326
+State,Kentucky,1990,Number,54362
+State,Kentucky,1994,Number,52983
+State,Kentucky,1993,Number,53000
+State,Kentucky,1996,Number,52706
+State,Kentucky,1995,Number,52377
+State,Kentucky,1997,Number,53203
+State,Kentucky,2000,Number,56029
+State,Kentucky,1999,Number,54403
+State,Kentucky,1998,Number,54329
+State,Kentucky,2002,Number,54233
+State,Kentucky,2001,Number,54658
+State,Kentucky,2004,Number,55720
+State,Kentucky,2003,Number,55236
+State,Kentucky,2005,Number,56444
+State,Kentucky,2008,Number,58375
+State,Kentucky,2007,Number,59368
+State,Kentucky,2006,Number,58250
+State,Kentucky,2013,Number,55686
+State,Kentucky,2009,Number,57551
+State,Kentucky,2010,Number,55784
+State,Kentucky,2015,Number,55971
+State,Kentucky,2011,Number,55370
+State,Kentucky,2012,Number,55758
+State,Kentucky,2014,Number,56170
+State,Kentucky,2016,Number,55449
+State,Louisiana,2016,Number,63178
+State,Louisiana,2014,Number,64497
+State,Louisiana,2012,Number,62642
+State,Louisiana,2011,Number,61888
+State,Louisiana,2015,Number,64692
+State,Louisiana,2010,Number,62379
+State,Louisiana,2009,Number,64973
+State,Louisiana,2013,Number,63201
+State,Louisiana,2006,Number,63376
+State,Louisiana,2007,Number,66301
+State,Louisiana,2008,Number,65268
+State,Louisiana,2005,Number,60937
+State,Louisiana,2003,Number,65040
+State,Louisiana,2004,Number,65369
+State,Louisiana,2001,Number,65352
+State,Louisiana,2002,Number,64872
+State,Louisiana,1998,Number,66888
+State,Louisiana,1999,Number,67136
+State,Louisiana,2000,Number,67898
+State,Louisiana,1997,Number,66025
+State,Louisiana,1995,Number,65641
+State,Louisiana,1996,Number,65204
+State,Louisiana,1993,Number,69402
+State,Louisiana,1994,Number,67817
+State,Louisiana,1990,Number,72192
+State,Louisiana,1991,Number,72193
+State,Louisiana,1992,Number,70707
+State,Maine,1992,Number,16057
+State,Maine,1991,Number,16753
+State,Maine,1990,Number,17359
+State,Maine,1994,Number,14441
+State,Maine,1993,Number,15065
+State,Maine,1996,Number,13774
+State,Maine,1995,Number,13896
+State,Maine,1997,Number,13669
+State,Maine,2000,Number,13603
+State,Maine,1999,Number,13616
+State,Maine,1998,Number,13733
+State,Maine,2002,Number,13559
+State,Maine,2001,Number,13759
+State,Maine,2004,Number,13944
+State,Maine,2003,Number,13855
+State,Maine,2005,Number,14112
+State,Maine,2008,Number,13609
+State,Maine,2007,Number,14120
+State,Maine,2006,Number,14151
+State,Maine,2013,Number,12776
+State,Maine,2009,Number,13470
+State,Maine,2010,Number,12970
+State,Maine,2015,Number,12607
+State,Maine,2011,Number,12704
+State,Maine,2012,Number,12798
+State,Maine,2014,Number,12698
+State,Maine,2016,Number,12705
+State,Maryland,2016,Number,73136
+State,Maryland,2014,Number,73921
+State,Maryland,2012,Number,72883
+State,Maryland,2011,Number,73093
+State,Maryland,2015,Number,73616
+State,Maryland,2010,Number,73801
+State,Maryland,2009,Number,75059
+State,Maryland,2013,Number,71953
+State,Maryland,2006,Number,77494
+State,Maryland,2007,Number,78095
+State,Maryland,2008,Number,77289
+State,Maryland,2005,Number,74980
+State,Maryland,2003,Number,74930
+State,Maryland,2004,Number,74628
+State,Maryland,2001,Number,73218
+State,Maryland,2002,Number,73323
+State,Maryland,1998,Number,71972
+State,Maryland,1999,Number,71967
+State,Maryland,2000,Number,74316
+State,Maryland,1997,Number,70215
+State,Maryland,1995,Number,72396
+State,Maryland,1996,Number,71533
+State,Maryland,1993,Number,74988
+State,Maryland,1994,Number,73971
+State,Maryland,1990,Number,80245
+State,Maryland,1991,Number,79184
+State,Maryland,1992,Number,77815
+State,Massachusetts,1992,Number,87231
+State,Massachusetts,1991,Number,88205
+State,Massachusetts,1990,Number,92654
+State,Massachusetts,1994,Number,83787
+State,Massachusetts,1993,Number,84668
+State,Massachusetts,1996,Number,80276
+State,Massachusetts,1995,Number,81648
+State,Massachusetts,1997,Number,80364
+State,Massachusetts,2000,Number,81614
+State,Massachusetts,1999,Number,80939
+State,Massachusetts,1998,Number,81411
+State,Massachusetts,2002,Number,80645
+State,Massachusetts,2001,Number,81077
+State,Massachusetts,2004,Number,78484
+State,Massachusetts,2003,Number,80184
+State,Massachusetts,2005,Number,76865
+State,Massachusetts,2008,Number,77022
+State,Massachusetts,2007,Number,77967
+State,Massachusetts,2006,Number,77676
+State,Massachusetts,2013,Number,71788
+State,Massachusetts,2009,Number,75016
+State,Massachusetts,2010,Number,72865
+State,Massachusetts,2015,Number,71492
+State,Massachusetts,2011,Number,73166
+State,Massachusetts,2012,Number,72439
+State,Massachusetts,2014,Number,71908
+State,Massachusetts,2016,Number,71317
+State,Michigan,2016,Number,113315
+State,Michigan,2014,Number,114375
+State,Michigan,2012,Number,113091
+State,Michigan,2011,Number,114008
+State,Michigan,2015,Number,113312
+State,Michigan,2010,Number,114531
+State,Michigan,2009,Number,117294
+State,Michigan,2013,Number,113489
+State,Michigan,2006,Number,127483
+State,Michigan,2007,Number,125261
+State,Michigan,2008,Number,121127
+State,Michigan,2005,Number,127706
+State,Michigan,2003,Number,131094
+State,Michigan,2004,Number,129776
+State,Michigan,2001,Number,133427
+State,Michigan,2002,Number,129967
+State,Michigan,1998,Number,133666
+State,Michigan,1999,Number,133607
+State,Michigan,2000,Number,136171
+State,Michigan,1997,Number,133714
+State,Michigan,1995,Number,134642
+State,Michigan,1996,Number,133387
+State,Michigan,1993,Number,139855
+State,Michigan,1994,Number,138028
+State,Michigan,1990,Number,153700
+State,Michigan,1991,Number,150198
+State,Michigan,1992,Number,144089
+State,Minnesota,1992,Number,65607
+State,Minnesota,1991,Number,67069
+State,Minnesota,1990,Number,68013
+State,Minnesota,1994,Number,64305
+State,Minnesota,1993,Number,64648
+State,Minnesota,1996,Number,63700
+State,Minnesota,1995,Number,63263
+State,Minnesota,1997,Number,64499
+State,Minnesota,2000,Number,67604
+State,Minnesota,1999,Number,65970
+State,Minnesota,1998,Number,65202
+State,Minnesota,2002,Number,68025
+State,Minnesota,2001,Number,67562
+State,Minnesota,2004,Number,70624
+State,Minnesota,2003,Number,70050
+State,Minnesota,2005,Number,70919
+State,Minnesota,2008,Number,72421
+State,Minnesota,2007,Number,73735
+State,Minnesota,2006,Number,73525
+State,Minnesota,2013,Number,69159
+State,Minnesota,2009,Number,70646
+State,Minnesota,2010,Number,68610
+State,Minnesota,2015,Number,69834
+State,Minnesota,2011,Number,68409
+State,Minnesota,2012,Number,68772
+State,Minnesota,2014,Number,69904
+State,Minnesota,2016,Number,69749
+State,Mississippi,2016,Number,37928
+State,Mississippi,2014,Number,38736
+State,Mississippi,2012,Number,38669
+State,Mississippi,2011,Number,39860
+State,Mississippi,2015,Number,38394
+State,Mississippi,2010,Number,40036
+State,Mississippi,2009,Number,42901
+State,Mississippi,2013,Number,38634
+State,Mississippi,2006,Number,46056
+State,Mississippi,2007,Number,46491
+State,Mississippi,2008,Number,44947
+State,Mississippi,2005,Number,42395
+State,Mississippi,2003,Number,42380
+State,Mississippi,2004,Number,42827
+State,Mississippi,2001,Number,42282
+State,Mississippi,2002,Number,41518
+State,Mississippi,1998,Number,42939
+State,Mississippi,1999,Number,42684
+State,Mississippi,2000,Number,44075
+State,Mississippi,1997,Number,41533
+State,Mississippi,1995,Number,41344
+State,Mississippi,1996,Number,40987
+State,Mississippi,1993,Number,42149
+State,Mississippi,1994,Number,41954
+State,Mississippi,1990,Number,43563
+State,Mississippi,1991,Number,43204
+State,Mississippi,1992,Number,42681
+State,Missouri,1992,Number,76301
+State,Missouri,1991,Number,78677
+State,Missouri,1990,Number,79260
+State,Missouri,1994,Number,73543
+State,Missouri,1993,Number,75253
+State,Missouri,1996,Number,73832
+State,Missouri,1995,Number,73028
+State,Missouri,1997,Number,74037
+State,Missouri,2000,Number,76463
+State,Missouri,1999,Number,75432
+State,Missouri,1998,Number,75358
+State,Missouri,2002,Number,75251
+State,Missouri,2001,Number,75464
+State,Missouri,2004,Number,77765
+State,Missouri,2003,Number,77045
+State,Missouri,2005,Number,78618
+State,Missouri,2008,Number,80963
+State,Missouri,2007,Number,81930
+State,Missouri,2006,Number,81385
+State,Missouri,2013,Number,75296
+State,Missouri,2009,Number,78905
+State,Missouri,2010,Number,76759
+State,Missouri,2015,Number,75061
+State,Missouri,2011,Number,76117
+State,Missouri,2012,Number,75446
+State,Missouri,2014,Number,75360
+State,Missouri,2016,Number,74705
+State,Montana,2016,Number,12282
+State,Montana,2014,Number,12432
+State,Montana,2012,Number,12118
+State,Montana,2011,Number,12069
+State,Montana,2015,Number,12583
+State,Montana,2010,Number,12060
+State,Montana,2009,Number,12257
+State,Montana,2013,Number,12377
+State,Montana,2006,Number,12508
+State,Montana,2007,Number,12439
+State,Montana,2008,Number,12594
+State,Montana,2005,Number,11583
+State,Montana,2003,Number,11422
+State,Montana,2004,Number,11519
+State,Montana,2001,Number,10970
+State,Montana,2002,Number,11049
+State,Montana,1998,Number,10795
+State,Montana,1999,Number,10785
+State,Montana,2000,Number,10957
+State,Montana,1997,Number,10849
+State,Montana,1995,Number,11142
+State,Montana,1996,Number,10856
+State,Montana,1993,Number,11365
+State,Montana,1994,Number,11067
+State,Montana,1990,Number,11613
+State,Montana,1991,Number,11513
+State,Montana,1992,Number,11472
+State,Nebraska,1992,Number,23397
+State,Nebraska,1991,Number,24017
+State,Nebraska,1990,Number,24380
+State,Nebraska,1994,Number,23156
+State,Nebraska,1993,Number,23224
+State,Nebraska,1996,Number,23286
+State,Nebraska,1995,Number,23243
+State,Nebraska,1997,Number,23319
+State,Nebraska,2000,Number,24646
+State,Nebraska,1999,Number,23907
+State,Nebraska,1998,Number,23534
+State,Nebraska,2002,Number,25383
+State,Nebraska,2001,Number,24820
+State,Nebraska,2004,Number,26332
+State,Nebraska,2003,Number,25917
+State,Nebraska,2005,Number,26145
+State,Nebraska,2008,Number,26989
+State,Nebraska,2007,Number,26934
+State,Nebraska,2006,Number,26727
+State,Nebraska,2013,Number,26095
+State,Nebraska,2009,Number,26936
+State,Nebraska,2010,Number,25918
+State,Nebraska,2015,Number,26679
+State,Nebraska,2011,Number,25720
+State,Nebraska,2012,Number,25942
+State,Nebraska,2014,Number,26794
+State,Nebraska,2016,Number,26589
+State,Nevada,2016,Number,36260
+State,Nevada,2014,Number,35861
+State,Nevada,2012,Number,34911
+State,Nevada,2011,Number,35296
+State,Nevada,2015,Number,36298
+State,Nevada,2010,Number,35934
+State,Nevada,2009,Number,37612
+State,Nevada,2013,Number,35030
+State,Nevada,2006,Number,40027
+State,Nevada,2007,Number,41181
+State,Nevada,2008,Number,39506
+State,Nevada,2005,Number,37268
+State,Nevada,2003,Number,33647
+State,Nevada,2004,Number,35200
+State,Nevada,2001,Number,31382
+State,Nevada,2002,Number,32571
+State,Nevada,1998,Number,28699
+State,Nevada,1999,Number,29362
+State,Nevada,2000,Number,30829
+State,Nevada,1997,Number,26911
+State,Nevada,1995,Number,25056
+State,Nevada,1996,Number,26125
+State,Nevada,1993,Number,22403
+State,Nevada,1994,Number,23911
+State,Nevada,1990,Number,21599
+State,Nevada,1991,Number,22026
+State,Nevada,1992,Number,22374
+State,New Hampshire,1992,Number,15990
+State,New Hampshire,1991,Number,16341
+State,New Hampshire,1990,Number,17569
+State,New Hampshire,1994,Number,15106
+State,New Hampshire,1993,Number,15436
+State,New Hampshire,1996,Number,14520
+State,New Hampshire,1995,Number,14665
+State,New Hampshire,1997,Number,14313
+State,New Hampshire,2000,Number,14609
+State,New Hampshire,1999,Number,14041
+State,New Hampshire,1998,Number,14429
+State,New Hampshire,2002,Number,14442
+State,New Hampshire,2001,Number,14656
+State,New Hampshire,2004,Number,14565
+State,New Hampshire,2003,Number,14393
+State,New Hampshire,2005,Number,14420
+State,New Hampshire,2008,Number,13683
+State,New Hampshire,2007,Number,14168
+State,New Hampshire,2006,Number,14378
+State,New Hampshire,2013,Number,12396
+State,New Hampshire,2009,Number,13377
+State,New Hampshire,2010,Number,12874
+State,New Hampshire,2015,Number,12433
+State,New Hampshire,2011,Number,12851
+State,New Hampshire,2012,Number,12352
+State,New Hampshire,2014,Number,12302
+State,New Hampshire,2016,Number,12267
+State,New Jersey,2016,Number,102647
+State,New Jersey,2014,Number,103305
+State,New Jersey,2012,Number,104230
+State,New Jersey,2011,Number,105883
+State,New Jersey,2015,Number,103127
+State,New Jersey,2010,Number,106922
+State,New Jersey,2009,Number,110331
+State,New Jersey,2013,Number,102575
+State,New Jersey,2006,Number,115020
+State,New Jersey,2007,Number,116063
+State,New Jersey,2008,Number,112710
+State,New Jersey,2005,Number,113776
+State,New Jersey,2003,Number,116983
+State,New Jersey,2004,Number,115253
+State,New Jersey,2001,Number,115795
+State,New Jersey,2002,Number,114751
+State,New Jersey,1998,Number,114550
+State,New Jersey,1999,Number,114105
+State,New Jersey,2000,Number,115632
+State,New Jersey,1997,Number,113279
+State,New Jersey,1995,Number,114828
+State,New Jersey,1996,Number,114306
+State,New Jersey,1993,Number,117686
+State,New Jersey,1994,Number,117501
+State,New Jersey,1990,Number,122289
+State,New Jersey,1991,Number,121406
+State,New Jersey,1992,Number,119909
+State,New Mexico,1992,Number,27922
+State,New Mexico,1991,Number,27800
+State,New Mexico,1990,Number,27402
+State,New Mexico,1994,Number,27591
+State,New Mexico,1993,Number,27852
+State,New Mexico,1996,Number,27228
+State,New Mexico,1995,Number,26920
+State,New Mexico,1997,Number,26871
+State,New Mexico,2000,Number,27223
+State,New Mexico,1999,Number,27191
+State,New Mexico,1998,Number,27318
+State,New Mexico,2002,Number,27753
+State,New Mexico,2001,Number,27128
+State,New Mexico,2004,Number,28384
+State,New Mexico,2003,Number,27821
+State,New Mexico,2005,Number,28835
+State,New Mexico,2008,Number,30173
+State,New Mexico,2007,Number,30616
+State,New Mexico,2006,Number,29936
+State,New Mexico,2013,Number,26354
+State,New Mexico,2009,Number,29000
+State,New Mexico,2010,Number,27850
+State,New Mexico,2015,Number,25816
+State,New Mexico,2011,Number,27289
+State,New Mexico,2012,Number,27068
+State,New Mexico,2014,Number,26052
+State,New Mexico,2016,Number,24692
+State,New York,2016,Number,234283
+State,New York,2014,Number,238773
+State,New York,2012,Number,240916
+State,New York,2011,Number,241312
+State,New York,2015,Number,237274
+State,New York,2010,Number,244375
+State,New York,2009,Number,248110
+State,New York,2013,Number,236980
+State,New York,2006,Number,250104
+State,New York,2007,Number,253451
+State,New York,2008,Number,250383
+State,New York,2005,Number,246351
+State,New York,2003,Number,253714
+State,New York,2004,Number,249947
+State,New York,2001,Number,254026
+State,New York,2002,Number,251415
+State,New York,1998,Number,258207
+State,New York,1999,Number,255612
+State,New York,2000,Number,258737
+State,New York,1997,Number,257238
+State,New York,1995,Number,271369
+State,New York,1996,Number,263963
+State,New York,1993,Number,282392
+State,New York,1994,Number,278392
+State,New York,1990,Number,297576
+State,New York,1991,Number,292633
+State,New York,1992,Number,287887
+State,North Carolina,1992,Number,103967
+State,North Carolina,1990,Number,104525
+State,North Carolina,1991,Number,102362
+State,North Carolina,1994,Number,101420
+State,North Carolina,1995,Number,101592
+State,North Carolina,1993,Number,101357
+State,North Carolina,1996,Number,104470
+State,North Carolina,1997,Number,107015
+State,North Carolina,2000,Number,120311
+State,North Carolina,1998,Number,111688
+State,North Carolina,1999,Number,113795
+State,North Carolina,2002,Number,117335
+State,North Carolina,2003,Number,118323
+State,North Carolina,2001,Number,118185
+State,North Carolina,2004,Number,119847
+State,North Carolina,2005,Number,123096
+State,North Carolina,2008,Number,130839
+State,North Carolina,2006,Number,127859
+State,North Carolina,2007,Number,131037
+State,North Carolina,2013,Number,119002
+State,North Carolina,2009,Number,126845
+State,North Carolina,2010,Number,122350
+State,North Carolina,2015,Number,120843
+State,North Carolina,2011,Number,120389
+State,North Carolina,2012,Number,119831
+State,North Carolina,2014,Number,120975
+State,North Carolina,2016,Number,120779
+State,North Dakota,2016,Number,11383
+State,North Dakota,2014,Number,11359
+State,North Dakota,2012,Number,10106
+State,North Dakota,2011,Number,9527
+State,North Dakota,2015,Number,11314
+State,North Dakota,2010,Number,9104
+State,North Dakota,2009,Number,9001
+State,North Dakota,2013,Number,10599
+State,North Dakota,2007,Number,8840
+State,North Dakota,2006,Number,8621
+State,North Dakota,2008,Number,8938
+State,North Dakota,2005,Number,8390
+State,North Dakota,2004,Number,8189
+State,North Dakota,2001,Number,7629
+State,North Dakota,2003,Number,7972
+State,North Dakota,2002,Number,7757
+State,North Dakota,1999,Number,7639
+State,North Dakota,1998,Number,7932
+State,North Dakota,2000,Number,7676
+State,North Dakota,1997,Number,8353
+State,North Dakota,1996,Number,8347
+State,North Dakota,1993,Number,8690
+State,North Dakota,1995,Number,8476
+State,North Dakota,1994,Number,8584
+State,North Dakota,1991,Number,8887
+State,North Dakota,1990,Number,9250
+State,North Dakota,1992,Number,8811
+State,Ohio,1992,Number,162247
+State,Ohio,1990,Number,166913
+State,Ohio,1991,Number,165795
+State,Ohio,1994,Number,155944
+State,Ohio,1995,Number,154064
+State,Ohio,1993,Number,158793
+State,Ohio,1996,Number,151692
+State,Ohio,1997,Number,152033
+State,Ohio,2000,Number,155472
+State,Ohio,1998,Number,152794
+State,Ohio,1999,Number,152584
+State,Ohio,2002,Number,148720
+State,Ohio,2003,Number,149679
+State,Ohio,2001,Number,151570
+State,Ohio,2004,Number,148954
+State,Ohio,2005,Number,148388
+State,Ohio,2008,Number,148821
+State,Ohio,2006,Number,150593
+State,Ohio,2007,Number,150879
+State,Ohio,2013,Number,138936
+State,Ohio,2009,Number,144841
+State,Ohio,2010,Number,139128
+State,Ohio,2015,Number,139264
+State,Ohio,2011,Number,137918
+State,Ohio,2012,Number,138483
+State,Ohio,2014,Number,139467
+State,Ohio,2016,Number,138085
+State,Oklahoma,2016,Number,52592
+State,Oklahoma,2014,Number,53339
+State,Oklahoma,2012,Number,52751
+State,Oklahoma,2011,Number,52272
+State,Oklahoma,2015,Number,53122
+State,Oklahoma,2010,Number,53238
+State,Oklahoma,2009,Number,54553
+State,Oklahoma,2013,Number,53369
+State,Oklahoma,2007,Number,55065
+State,Oklahoma,2006,Number,54016
+State,Oklahoma,2008,Number,54781
+State,Oklahoma,2005,Number,51801
+State,Oklahoma,2004,Number,51306
+State,Oklahoma,2001,Number,50118
+State,Oklahoma,2003,Number,50981
+State,Oklahoma,2002,Number,50387
+State,Oklahoma,1999,Number,49010
+State,Oklahoma,1998,Number,49461
+State,Oklahoma,2000,Number,49782
+State,Oklahoma,1997,Number,48269
+State,Oklahoma,1996,Number,46193
+State,Oklahoma,1993,Number,46243
+State,Oklahoma,1995,Number,45672
+State,Oklahoma,1994,Number,45703
+State,Oklahoma,1991,Number,47795
+State,Oklahoma,1990,Number,47649
+State,Oklahoma,1992,Number,47557
+State,Oregon,1992,Number,42035
+State,Oregon,1990,Number,42891
+State,Oregon,1991,Number,42499
+State,Oregon,1994,Number,41837
+State,Oregon,1995,Number,42811
+State,Oregon,1993,Number,41576
+State,Oregon,1996,Number,43658
+State,Oregon,1997,Number,43809
+State,Oregon,2000,Number,45804
+State,Oregon,1998,Number,45273
+State,Oregon,1999,Number,45204
+State,Oregon,2002,Number,45192
+State,Oregon,2003,Number,45953
+State,Oregon,2001,Number,45322
+State,Oregon,2004,Number,45678
+State,Oregon,2005,Number,45922
+State,Oregon,2008,Number,49096
+State,Oregon,2006,Number,48689
+State,Oregon,2007,Number,49378
+State,Oregon,2013,Number,45155
+State,Oregon,2009,Number,47132
+State,Oregon,2010,Number,45540
+State,Oregon,2015,Number,45655
+State,Oregon,2011,Number,45155
+State,Oregon,2012,Number,45067
+State,Oregon,2014,Number,45556
+State,Oregon,2016,Number,45535
+State,Pennsylvania,2016,Number,139409
+State,Pennsylvania,2014,Number,142268
+State,Pennsylvania,2012,Number,142514
+State,Pennsylvania,2011,Number,143178
+State,Pennsylvania,2015,Number,141047
+State,Pennsylvania,2010,Number,143321
+State,Pennsylvania,2009,Number,146434
+State,Pennsylvania,2013,Number,140921
+State,Pennsylvania,2007,Number,150713
+State,Pennsylvania,2006,Number,149090
+State,Pennsylvania,2008,Number,149273
+State,Pennsylvania,2005,Number,145383
+State,Pennsylvania,2004,Number,144748
+State,Pennsylvania,2001,Number,143495
+State,Pennsylvania,2003,Number,145959
+State,Pennsylvania,2002,Number,142850
+State,Pennsylvania,1999,Number,145347
+State,Pennsylvania,1998,Number,145899
+State,Pennsylvania,2000,Number,146281
+State,Pennsylvania,1997,Number,144224
+State,Pennsylvania,1996,Number,148338
+State,Pennsylvania,1993,Number,160762
+State,Pennsylvania,1995,Number,151850
+State,Pennsylvania,1994,Number,157071
+State,Pennsylvania,1991,Number,168851
+State,Pennsylvania,1990,Number,171961
+State,Pennsylvania,1992,Number,164625
+State,Rhode Island,1991,Number,14734
+State,Rhode Island,1990,Number,15195
+State,Rhode Island,1995,Number,12776
+State,Rhode Island,1994,Number,13466
+State,Rhode Island,1993,Number,13976
+State,Rhode Island,1992,Number,14500
+State,Rhode Island,1997,Number,12455
+State,Rhode Island,1996,Number,12652
+State,Rhode Island,1999,Number,12366
+State,Rhode Island,1998,Number,12599
+State,Rhode Island,2003,Number,13209
+State,Rhode Island,2002,Number,12894
+State,Rhode Island,2001,Number,12713
+State,Rhode Island,2000,Number,12505
+State,Rhode Island,2005,Number,12697
+State,Rhode Island,2004,Number,12779
+State,Rhode Island,2007,Number,12376
+State,Rhode Island,2006,Number,12372
+State,Rhode Island,2013,Number,10809
+State,Rhode Island,2009,Number,11442
+State,Rhode Island,2010,Number,11177
+State,Rhode Island,2015,Number,10993
+State,Rhode Island,2011,Number,10960
+State,Rhode Island,2012,Number,10926
+State,Rhode Island,2014,Number,10823
+State,Rhode Island,2016,Number,10798
+State,Rhode Island,2008,Number,12048
+State,South Carolina,2008,Number,63071
+State,South Carolina,2016,Number,57342
+State,South Carolina,2014,Number,57627
+State,South Carolina,2012,Number,57155
+State,South Carolina,2011,Number,57393
+State,South Carolina,2015,Number,58139
+State,South Carolina,2010,Number,58342
+State,South Carolina,2009,Number,60620
+State,South Carolina,2013,Number,56795
+State,South Carolina,2006,Number,62171
+State,South Carolina,2007,Number,62875
+State,South Carolina,2004,Number,56590
+State,South Carolina,2005,Number,57711
+State,South Carolina,2000,Number,56114
+State,South Carolina,2001,Number,55756
+State,South Carolina,2002,Number,54570
+State,South Carolina,2003,Number,55649
+State,South Carolina,1998,Number,53877
+State,South Carolina,1999,Number,54948
+State,South Carolina,1996,Number,51117
+State,South Carolina,1997,Number,52214
+State,South Carolina,1992,Number,56192
+State,South Carolina,1993,Number,53835
+State,South Carolina,1994,Number,52043
+State,South Carolina,1995,Number,50926
+State,South Carolina,1990,Number,58610
+State,South Carolina,1991,Number,57572
+State,South Dakota,1991,Number,10946
+State,South Dakota,1990,Number,10999
+State,South Dakota,1995,Number,10475
+State,South Dakota,1994,Number,10507
+State,South Dakota,1993,Number,10719
+State,South Dakota,1992,Number,11018
+State,South Dakota,1997,Number,10173
+State,South Dakota,1996,Number,10473
+State,South Dakota,1999,Number,10524
+State,South Dakota,1998,Number,10288
+State,South Dakota,2003,Number,11027
+State,South Dakota,2002,Number,10698
+State,South Dakota,2001,Number,10483
+State,South Dakota,2000,Number,10345
+State,South Dakota,2005,Number,11462
+State,South Dakota,2004,Number,11338
+State,South Dakota,2007,Number,12261
+State,South Dakota,2006,Number,11919
+State,South Dakota,2013,Number,12248
+State,South Dakota,2009,Number,11934
+State,South Dakota,2010,Number,11811
+State,South Dakota,2015,Number,12336
+State,South Dakota,2011,Number,11846
+State,South Dakota,2012,Number,12104
+State,South Dakota,2014,Number,12283
+State,South Dakota,2016,Number,12275
+State,South Dakota,2008,Number,12071
+State,Tennessee,2008,Number,85560
+State,Tennessee,2016,Number,80807
+State,Tennessee,2014,Number,81602
+State,Tennessee,2012,Number,80371
+State,Tennessee,2011,Number,79588
+State,Tennessee,2015,Number,81685
+State,Tennessee,2010,Number,79495
+State,Tennessee,2009,Number,82211
+State,Tennessee,2013,Number,79992
+State,Tennessee,2006,Number,84355
+State,Tennessee,2007,Number,86711
+State,Tennessee,2004,Number,79642
+State,Tennessee,2005,Number,81747
+State,Tennessee,2000,Number,79611
+State,Tennessee,2001,Number,78340
+State,Tennessee,2002,Number,77482
+State,Tennessee,2003,Number,78890
+State,Tennessee,1998,Number,77396
+State,Tennessee,1999,Number,77803
+State,Tennessee,1996,Number,73754
+State,Tennessee,1997,Number,74478
+State,Tennessee,1992,Number,73614
+State,Tennessee,1993,Number,73017
+State,Tennessee,1994,Number,73191
+State,Tennessee,1995,Number,73173
+State,Tennessee,1990,Number,74962
+State,Tennessee,1991,Number,74510
+State,Texas,1991,Number,317746
+State,Texas,1990,Number,316423
+State,Texas,1995,Number,322753
+State,Texas,1994,Number,321114
+State,Texas,1993,Number,322071
+State,Texas,1992,Number,320845
+State,Texas,1997,Number,333974
+State,Texas,1996,Number,330406
+State,Texas,1999,Number,349245
+State,Texas,1998,Number,342283
+State,Texas,2003,Number,377476
+State,Texas,2002,Number,372450
+State,Texas,2001,Number,365410
+State,Texas,2000,Number,363414
+State,Texas,2005,Number,385915
+State,Texas,2004,Number,381293
+State,Texas,2007,Number,407625
+State,Texas,2006,Number,399603
+State,Texas,2013,Number,387340
+State,Texas,2009,Number,401977
+State,Texas,2010,Number,386118
+State,Texas,2015,Number,403618
+State,Texas,2011,Number,377445
+State,Texas,2012,Number,382727
+State,Texas,2014,Number,399766
+State,Texas,2016,Number,398047
+State,Texas,2008,Number,405554
+State,Utah,2008,Number,55634
+State,Utah,2016,Number,50464
+State,Utah,2014,Number,51154
+State,Utah,2012,Number,51465
+State,Utah,2011,Number,51223
+State,Utah,2015,Number,50778
+State,Utah,2010,Number,52258
+State,Utah,2009,Number,53887
+State,Utah,2013,Number,50957
+State,Utah,2006,Number,53504
+State,Utah,2007,Number,55130
+State,Utah,2004,Number,50670
+State,Utah,2005,Number,51556
+State,Utah,2000,Number,47353
+State,Utah,2001,Number,47959
+State,Utah,2002,Number,49182
+State,Utah,2003,Number,49860
+State,Utah,1998,Number,45165
+State,Utah,1999,Number,46290
+State,Utah,1996,Number,42087
+State,Utah,1997,Number,43059
+State,Utah,1992,Number,37200
+State,Utah,1993,Number,37127
+State,Utah,1994,Number,38279
+State,Utah,1995,Number,39577
+State,Utah,1990,Number,36277
+State,Utah,1991,Number,36033
+State,Vermont,1991,Number,7965
+State,Vermont,1990,Number,8273
+State,Vermont,1995,Number,6783
+State,Vermont,1994,Number,7377
+State,Vermont,1993,Number,7457
+State,Vermont,1992,Number,7737
+State,Vermont,1997,Number,6607
+State,Vermont,1996,Number,6767
+State,Vermont,1999,Number,6567
+State,Vermont,1998,Number,6582
+State,Vermont,2003,Number,6589
+State,Vermont,2002,Number,6387
+State,Vermont,2001,Number,6366
+State,Vermont,2000,Number,6500
+State,Vermont,2005,Number,6295
+State,Vermont,2004,Number,6599
+State,Vermont,2007,Number,6513
+State,Vermont,2006,Number,6511
+State,Vermont,2013,Number,5975
+State,Vermont,2009,Number,6110
+State,Vermont,2010,Number,6223
+State,Vermont,2015,Number,5903
+State,Vermont,2011,Number,6078
+State,Vermont,2012,Number,6009
+State,Vermont,2014,Number,6130
+State,Vermont,2016,Number,5756
+State,Vermont,2008,Number,6339
+State,Virginia,2008,Number,106686
+State,Virginia,2016,Number,102460
+State,Virginia,2014,Number,103300
+State,Virginia,2012,Number,103013
+State,Virginia,2011,Number,102652
+State,Virginia,2015,Number,103303
+State,Virginia,2010,Number,103002
+State,Virginia,2009,Number,105059
+State,Virginia,2013,Number,102147
+State,Virginia,2006,Number,107817
+State,Virginia,2007,Number,108884
+State,Virginia,2004,Number,103933
+State,Virginia,2005,Number,104555
+State,Virginia,2000,Number,98938
+State,Virginia,2001,Number,98884
+State,Virginia,2002,Number,99672
+State,Virginia,2003,Number,101254
+State,Virginia,1998,Number,94351
+State,Virginia,1999,Number,95469
+State,Virginia,1996,Number,92354
+State,Virginia,1997,Number,91862
+State,Virginia,1992,Number,97198
+State,Virginia,1993,Number,94944
+State,Virginia,1994,Number,95039
+State,Virginia,1995,Number,92578
+State,Virginia,1990,Number,99352
+State,Virginia,1991,Number,97370
+State,Washington,1991,Number,79711
+State,Washington,1990,Number,79251
+State,Washington,1995,Number,77228
+State,Washington,1994,Number,77358
+State,Washington,1993,Number,78645
+State,Washington,1992,Number,79450
+State,Washington,1997,Number,78190
+State,Washington,1996,Number,77945
+State,Washington,1999,Number,79586
+State,Washington,1998,Number,79663
+State,Washington,2003,Number,80489
+State,Washington,2002,Number,79028
+State,Washington,2001,Number,79570
+State,Washington,2000,Number,81036
+State,Washington,2005,Number,82703
+State,Washington,2004,Number,81747
+State,Washington,2007,Number,88978
+State,Washington,2006,Number,86876
+State,Washington,2013,Number,86577
+State,Washington,2009,Number,89313
+State,Washington,2010,Number,86539
+State,Washington,2015,Number,88990
+State,Washington,2011,Number,86976
+State,Washington,2012,Number,87463
+State,Washington,2014,Number,88585
+State,Washington,2016,Number,90505
+State,Washington,2008,Number,90321
+State,West Virginia,2008,Number,21501
+State,West Virginia,2016,Number,19079
+State,West Virginia,2014,Number,20301
+State,West Virginia,2012,Number,20827
+State,West Virginia,2011,Number,20717
+State,West Virginia,2015,Number,19805
+State,West Virginia,2010,Number,20470
+State,West Virginia,2009,Number,21268
+State,West Virginia,2013,Number,20825
+State,West Virginia,2006,Number,20931
+State,West Virginia,2007,Number,21994
+State,West Virginia,2004,Number,20880
+State,West Virginia,2005,Number,20836
+State,West Virginia,2000,Number,20865
+State,West Virginia,2001,Number,20428
+State,West Virginia,2002,Number,20712
+State,West Virginia,2003,Number,20935
+State,West Virginia,1998,Number,20747
+State,West Virginia,1999,Number,20728
+State,West Virginia,1996,Number,20750
+State,West Virginia,1997,Number,20730
+State,West Virginia,1992,Number,22170
+State,West Virginia,1993,Number,21792
+State,West Virginia,1994,Number,21375
+State,West Virginia,1995,Number,21162
+State,West Virginia,1990,Number,22585
+State,West Virginia,1991,Number,22508
+State,Wisconsin,1990,Number,72895
+State,Wisconsin,1991,Number,72071
+State,Wisconsin,1994,Number,68282
+State,Wisconsin,1995,Number,67479
+State,Wisconsin,1992,Number,70670
+State,Wisconsin,1993,Number,69767
+State,Wisconsin,1996,Number,67106
+State,Wisconsin,1997,Number,66557
+State,Wisconsin,1998,Number,67450
+State,Wisconsin,1999,Number,68208
+State,Wisconsin,2002,Number,68560
+State,Wisconsin,2003,Number,70040
+State,Wisconsin,2000,Number,69326
+State,Wisconsin,2001,Number,69072
+State,Wisconsin,2004,Number,70146
+State,Wisconsin,2005,Number,70984
+State,Wisconsin,2006,Number,72340
+State,Wisconsin,2007,Number,72784
+State,Wisconsin,2013,Number,66649
+State,Wisconsin,2009,Number,70843
+State,Wisconsin,2010,Number,68487
+State,Wisconsin,2015,Number,67041
+State,Wisconsin,2011,Number,67810
+State,Wisconsin,2012,Number,67295
+State,Wisconsin,2014,Number,67161
+State,Wisconsin,2016,Number,66615
+State,Wisconsin,2008,Number,72261
+State,Wyoming,2008,Number,8038
+State,Wyoming,2016,Number,7386
+State,Wyoming,2014,Number,7696
+State,Wyoming,2012,Number,7572
+State,Wyoming,2011,Number,7399
+State,Wyoming,2015,Number,7765
+State,Wyoming,2010,Number,7556
+State,Wyoming,2009,Number,7881
+State,Wyoming,2013,Number,7644
+State,Wyoming,2006,Number,7672
+State,Wyoming,2007,Number,7893
+State,Wyoming,2004,Number,6807
+State,Wyoming,2005,Number,7239
+State,Wyoming,2000,Number,6253
+State,Wyoming,2001,Number,6115
+State,Wyoming,2002,Number,6550
+State,Wyoming,2003,Number,6700
+State,Wyoming,1998,Number,6252
+State,Wyoming,1999,Number,6129
+State,Wyoming,1996,Number,6286
+State,Wyoming,1997,Number,6387
+State,Wyoming,1992,Number,6723
+State,Wyoming,1993,Number,6555
+State,Wyoming,1994,Number,6428
+State,Wyoming,1995,Number,6261
+State,Wyoming,1990,Number,6985
+State,Wyoming,1991,Number,6703
+Territory,Puerto Rico,1991,Number,N.A.
+Territory,Puerto Rico,1990,Number,N.A.
+Territory,Puerto Rico,1992,Number,N.A.
+Territory,Puerto Rico,1995,Number,63421
+Territory,Puerto Rico,1994,Number,64210
+Territory,Puerto Rico,1993,Number,N.A.
+Territory,Puerto Rico,1997,Number,64082
+Territory,Puerto Rico,1996,Number,63081
+Territory,Puerto Rico,1999,Number,59563
+Territory,Puerto Rico,1998,Number,60409
+Territory,Puerto Rico,2000,Number,59333
+Territory,Puerto Rico,2003,Number,50672
+Territory,Puerto Rico,2002,Number,52736
+Territory,Puerto Rico,2001,Number,55865
+Territory,Puerto Rico,2005,Number,50547
+Territory,Puerto Rico,2004,Number,51101
+Territory,Puerto Rico,2007,Number,46642
+Territory,Puerto Rico,2006,Number,48597
+Territory,Puerto Rico,2008,Number,45620
+Territory,Puerto Rico,2013,Number,36486
+Territory,Puerto Rico,2009,Number,44773
+Territory,Puerto Rico,2010,Number,42153
+Territory,Puerto Rico,2015,Number,31157
+Territory,Puerto Rico,2011,Number,41080
+Territory,Puerto Rico,2012,Number,38900
+Territory,Puerto Rico,2014,Number,34434
+Territory,Puerto Rico,2016,Number,28257
+Territory,Virgin Islands,2016,Number,1187
+Territory,Virgin Islands,2014,Number,N.A.
+Territory,Virgin Islands,2012,Number,1415
+Territory,Virgin Islands,2011,Number,1491
+Territory,Virgin Islands,2008,Number,1784
+Territory,Virgin Islands,2015,Number,1325
+Territory,Virgin Islands,2010,Number,1600
+Territory,Virgin Islands,2009,Number,1687
+Territory,Virgin Islands,2013,Number,N.A.
+Territory,Virgin Islands,2006,Number,1687
+Territory,Virgin Islands,2007,Number,1697
+Territory,Virgin Islands,2004,Number,1574
+Territory,Virgin Islands,2005,Number,N.A
+Territory,Virgin Islands,2000,Number,1564
+Territory,Virgin Islands,2001,Number,1669
+Territory,Virgin Islands,2002,Number,1634
+Territory,Virgin Islands,2003,Number,1522
+Territory,Virgin Islands,1998,Number,1800
+Territory,Virgin Islands,1999,Number,1671
+Territory,Virgin Islands,1996,Number,1905
+Territory,Virgin Islands,1997,Number,2017
+Territory,Virgin Islands,1992,Number,N.A.
+Territory,Virgin Islands,1993,Number,N.A.
+Territory,Virgin Islands,1994,Number,2396
+Territory,Virgin Islands,1995,Number,2063
+Territory,Virgin Islands,1990,Number,N.A.
+Territory,Virgin Islands,1991,Number,N.A.
